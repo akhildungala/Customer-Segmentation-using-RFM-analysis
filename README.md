@@ -134,3 +134,18 @@ This segmentation enables:
 ---
 
 ## 📂 Repository Structure
+Customer-Segmentation-RFM/
+│
+├── data/
+│ ├── Online Retail.xlsx
+│ └── rfm_output.csv
+│
+├── notebooks/
+│ └── rfm_analysis.ipynb
+│
+├── dashboard/
+│ └── RFM_Dashboard.pbix
+│
+└── README.md
+
+
